@@ -34,7 +34,7 @@ Open the R script **run_analysis.r** using a text editor.
 Change the parameter of the setwd function call to the working directory (i.e., the folder where the R script files and the data is saved).
 The files; **run_analysis.R**, **run_analysis.Rmd** and **makeCodebook.Rmd** will need to be in the working directory.
 The folder **UCI HAR Dataset** which contains all the data, will also need to be in the working directory.
-Run the R script `run_analysis.r`. It calls the R Markdown file, **run_analysis.Rmd**, which contains most of the code.
+Run the R script `run_analysis.r`. It calls the R Markdown files, **run_analysis.Rmd** which contains most of the code and **makeCodebook.Rmd** which creates the required codebook.
 
 
 ##Resultant Files produced for Project
